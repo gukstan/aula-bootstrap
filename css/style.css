@@ -1,0 +1,7 @@
+.navbar {
+    background-color: brown;
+}
+
+.navbar-nav .nav-item .active{
+    color: white;
+}
