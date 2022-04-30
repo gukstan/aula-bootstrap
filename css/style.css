@@ -1,7 +1,14 @@
-.navbar {
-    background-color: brown;
+
+#quem-somos {
+    background-color: darkgray ;
+    padding: 0px 100px 0px 100px;
 }
 
-.navbar-nav .nav-item .active{
-    color: white;
+.img-thumbnail {
+    max-width: 70%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
