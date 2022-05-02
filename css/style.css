@@ -1,7 +1,11 @@
 
 .quem-somos {
     background-color: darkgray ;
-    padding: 0px 100px 0px 100px;
+    padding: 0px 100px 0px 100px
+}
+
+.quem-somos-p {
+    padding-top: 30px;
 }
 
 .img-thumbnail {
@@ -21,5 +25,18 @@ h1, h2, h3, h4, h5, h6 {
 
 .parceiros-logo {
     max-width: 100px;
-    margin: 30px;
+    margin: 30px 30px 60px 30px ;
+}
+
+#servicos {
+    background-color: darkgray;
+}
+
+p {
+    padding-bottom:  30px;
+    margin: 0;
+}
+
+.servicos-p {
+    padding: 30px;
 }
